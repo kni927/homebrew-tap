@@ -1,6 +1,6 @@
 cask "cooviewer" do
-  version "1.6.4"
-  sha256 "0010ba4a12b6bd7a45969fdea469f636e831f606c9ea81ac67e20aa3b5a65475"
+  version "1.6.5"
+  sha256 "15643b297e01729f19c0959ea58e66bc33ff606a8a3bfad4cdb848a48b29a2a7"
 
   url "https://github.com/kni927/cooViewer/releases/download/v#{version}/cooViewer-v#{version}.zip"
   name "cooViewer"
